@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mailgun
+Version: 1.0.0
+Summary: Flask Mailgun for Python web framework
+Home-page: https://github.com/1099policy-packages/flask-mailgun
+Author: Ray Ventura
+Author-email: ray@1099policy.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+readme
+

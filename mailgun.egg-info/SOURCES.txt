@@ -1,0 +1,16 @@
+.DS_Store
+LICENSE
+README.md
+setup.py
+mailgun/__init__.py
+mailgun/api.py
+mailgun/attachment.py
+mailgun/core.py
+mailgun/message.py
+mailgun/processing.py
+mailgun/thread_pool.py
+mailgun/utils.py
+mailgun.egg-info/PKG-INFO
+mailgun.egg-info/SOURCES.txt
+mailgun.egg-info/dependency_links.txt
+mailgun.egg-info/top_level.txt

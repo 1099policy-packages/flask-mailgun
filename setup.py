@@ -9,8 +9,8 @@ if StrictVersion(platform.python_version()) < StrictVersion('3.0.0'):
     raise Exception("`t99-mailgun` support python version >= 3.0.0 only.")
 
 setup(
-    name='t99-mailgun',
-    version='21.12.08',
+    name='mailgun',
+    version='1.0.0',
     description=(
         'Flask Mailgun for Python web framework'
     ),
@@ -21,8 +21,7 @@ setup(
     package_data={
         't99': ['mailgun/*'],
     },
-    install_requires=[
-    ],
+    install_requires=[],
     url='https://github.com/1099policy-packages/flask-mailgun',
     author='Ray Ventura',
     author_email='ray@1099policy.com',
